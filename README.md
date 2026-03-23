@@ -1,2 +1,18 @@
-# sql-online-store-project
-This project is a SQL-based Online Store Database System designed to simulate how an e-commerce platform manages its data. It includes structured tables for customers, products, and orders, allowing efficient storage, retrieval, and analysis of transactional data.
+# Online Store SQL Project
+
+## Description
+This project simulates an online store database.
+
+## Tables
+- Customers
+- Products
+- Orders
+
+## Features
+- Track customer orders
+- Analyze product sales
+
+## SQL Concepts Used
+- Joins
+- Aggregations
+- Filtering
